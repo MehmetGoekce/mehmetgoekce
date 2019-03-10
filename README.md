@@ -1,6 +1,6 @@
 # mehmetgoekce.com
 
-[![Build Status](https://travis-ci.com/MehmetGoekce/mehmetgoekce.com?branch=master)](https://travis-ci.com/MehmetGoekce/mehmetgoekce.com)
+[![Build Status](https://travis-ci.com/MehmetGoekce/mehmetgoekce.com.svg?branch=master)](https://travis-ci.com/MehmetGoekce/mehmetgoekce.com)
 
 *This is the code behind mehmetgoekce.com*
 
