@@ -1,7 +1,6 @@
 # mehmetgoekce.com
 
-[![Build Status](https://secure.travis-ci.org/zendframework/zend-expressive-skeleton.svg?branch=master)](https://secure.travis-ci.org/zendframework/zend-expressive-skeleton)
-[![Coverage Status](https://coveralls.io/repos/github/zendframework/zend-expressive-skeleton/badge.svg?branch=master)](https://coveralls.io/github/zendframework/zend-expressive-skeleton?branch=master)
+[![Build Status](https://travis-ci.com/MehmetGoekce/mehmetgoekce.com?branch=master)](https://travis-ci.com/MehmetGoekce/mehmetgoekce.com)
 
 *This is the code behind mehmetgoekce.com*
 
